@@ -8,6 +8,7 @@ This project sets up a one-tier web application using an EC2 instance and implem
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
+- [License](#license)
 
 ## Phase 1: One-Tier Website using EC2
 
@@ -49,6 +50,9 @@ In this phase, we set up a Squid Proxy server to whitelist specific URLs. Follow
 ## Contributing
 
 Contributions to this project are welcome. Please follow the standard GitHub fork and pull request workflow.
+
+##  License
+This repository is licensed under the MIT License.
 
 ---
 
